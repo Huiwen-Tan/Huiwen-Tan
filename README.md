@@ -50,7 +50,7 @@
 </table>
 
 <!-- 3D Contribution -->
-![GitHub 3D Contribution](https://github.com/Huiwen-Tan/Huiwen-Tan/blob/main/profile-3d-contrib/profile-season-animate.svg)
+![GitHub 3D Contribution](https://github.com/Huiwen-Tan/Huiwen-Tan/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
 
 
 <!---

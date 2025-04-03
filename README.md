@@ -44,7 +44,14 @@
 </table>
 
 <!-- 3D Contribution -->
-![GitHub 3D Contribution](https://github.com/Huiwen-Tan/Huiwen-Tan/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github.com/Huiwen-Tan/Huiwen-Tan/blob/main/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github.com/Huiwen-Tan/Huiwen-Tan/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img src="https://github.com/Huiwen-Tan/Huiwen-Tan/blob/main/profile-3d-contrib/profile-south-season-animate.svg" 
+       alt="GitHub 3D Contribution" />
+</picture>
 
 <!-- Dynamic Skills Logo -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>

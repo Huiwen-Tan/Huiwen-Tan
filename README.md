@@ -10,9 +10,6 @@
   <!-- for beauty -->
   <div>&nbsp;</div>
 
-<!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,linux,latex,r,github,vscode,pycharm,anaconda,vim,git,bash,fortran&theme=dark&perline=7)](https://skillicons.dev)
-
 <!-- Welcome words -->
 <h1 style="color: #FFC0CB;">Welcome to Huiwen's GitHub ! 🍀</h1>
 
@@ -31,7 +28,8 @@
 <!-- Stats Words -->
 ![Metrics](github-metrics.svg)
 
-
+<!-- Skills Emoji -->
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,linux,latex,r,github,vscode,pycharm,anaconda,vim,git,bash,fortran&theme=dark&perline=7)](https://skillicons.dev)
 
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huiwen-Tan&show_icons=true&no-bg=true)

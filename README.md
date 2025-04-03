@@ -46,9 +46,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=high-contrast" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=tokyo-night" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=high-contrast" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=tokyo-night" />
       </picture>
   </tr>
 </table>

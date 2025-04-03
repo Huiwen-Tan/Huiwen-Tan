@@ -10,11 +10,11 @@
   <!-- for beauty -->
   <div>&nbsp;</div>
 
-<!-- Dynamic Skills Logo -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+<!-- Skills Emoji -->
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,linux,latex,r,github,vscode,pycharm,anaconda,vim,git,bash,fortran&theme=dark&perline=7)](https://skillicons.dev)
 
 <!-- Welcome words -->
-<h1 style="color: #FFA500;">Welcome to Huiwen's GitHub ! 🍀</h1>
+<h1 style="color: #FFC0CB;">Welcome to Huiwen's GitHub ! 🍀</h1>
 
 <!-- Little Logo -->
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
@@ -31,8 +31,7 @@
 <!-- Stats Words -->
 ![Metrics](github-metrics.svg)
 
-<!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,linux,latex,r,github,vscode,pycharm,anaconda,vim,git,bash,fortran&theme=dark&perline=7)](https://skillicons.dev)
+
 
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huiwen-Tan&show_icons=true&no-bg=true)
@@ -54,6 +53,9 @@
 
 <!-- 3D Contribution -->
 ![GitHub 3D Contribution](https://github.com/Huiwen-Tan/Huiwen-Tan/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
+
+<!-- Dynamic Skills Logo -->
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
 
 <!---

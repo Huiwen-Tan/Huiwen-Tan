@@ -35,19 +35,19 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,linux,latex,r,github,vscode,pycharm,anaconda,vim,git,bash,fortran&theme=dark&perline=7)](https://skillicons.dev)
 
 <!-- Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huiwen-Tan&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huiwen-Tan&show_icons=true&no-bg=true)
 
 <!-- Award List -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=Huiwen-Tan&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
+<!-- GitHub Activity Graph GitHub -->
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=high-contrast" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huiwen-Tan&theme=high-contrast" />
       </picture>
   </tr>
 </table>

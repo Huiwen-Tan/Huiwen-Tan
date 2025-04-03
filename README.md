@@ -28,11 +28,11 @@
 <!-- World Peaceful words -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7A1BA&multiline=true&width=435&lines=Good+morning%2C+and+in+case+I+don't+see+ya%2C;+good+afternoon%2C+good+evening%2C+and+good+night.)](https://git.io/typing-svg)
 
-<!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,linux,latex,r,github,vscode,pycharm,anaconda,vim,git,bash,fortran&theme=dark&perline=7)](https://skillicons.dev)
-
 <!-- Stats Words -->
 ![Metrics](github-metrics.svg)
+
+<!-- Skills Emoji -->
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,linux,latex,r,github,vscode,pycharm,anaconda,vim,git,bash,fortran&theme=dark&perline=7)](https://skillicons.dev)
 
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huiwen-Tan&show_icons=true&theme=radical)

@@ -31,6 +31,9 @@
 <!-- Skills Emoji -->
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,linux,latex,r,github,vscode,pycharm,anaconda,vim,git,bash,fortran&theme=dark&perline=7)](https://skillicons.dev)
 
+<!-- Stats Words -->
+![Metrics](github-metrics.svg)
+
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huiwen-Tan&show_icons=true&theme=radical)
 

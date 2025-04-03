@@ -11,7 +11,7 @@
   <div>&nbsp;</div>
 
 <!-- Welcome words -->
-<h1 style="color: #FFC0CB;">Welcome to Huiwen's GitHub ! 🍀</h1>
+<h1 style="color: #FFC0CB;">Welcome to Huiwen's GitHub ! 💞️</h1>
 
 <!-- Little Logo -->
 <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
